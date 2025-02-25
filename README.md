@@ -23,4 +23,4 @@ Your tutor should be able to give you a list of some of the suitable JavaScript 
 
 - [https://magnus195.github.io/borgurr](https://magnus195.github.io/borgurr)
 - [https://magnus195.github.io/grand-checklist/](https://magnus195.github.io/grand-checklist/) A million checkboxes
--
+- [https://magnus195.github.io/cat-palace/](https://magnus195.github.io/cat-palace/)
